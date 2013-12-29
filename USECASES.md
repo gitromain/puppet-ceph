@@ -82,3 +82,4 @@ Leveraging vagrant, vagrant-openstack, openstack
 Ceph is used as a backend storage for various use cases
 There are tests to make sure the Ceph cluster was instantiated properly
 There are tests to make sure various other infrastructure components (or products) can use the Ceph cluster
+
